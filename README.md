@@ -14,7 +14,7 @@ If it's impossible to end up back at the largest element in the array your
 program should output -1. The largest element in the array will never equal
 the number of elements in the array. The largest element will be unique.
   
-  Example:
+  Examples:
 
     Input: [1, 2, 3, 4, 2]
     Output: 3
